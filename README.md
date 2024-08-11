@@ -1,5 +1,5 @@
 This is First Mini Project -
-Project Name : Amazon E-commerce Clone Webpage
+Project Name : Amazon E-commerce UI Clone 
   - Technology Stack: HTML, CSS
   - Key Features:
   - User Interface: Designed to resemble the Amazon website
